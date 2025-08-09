@@ -288,5 +288,6 @@ This project is licensed under the [MIT License](LICENSE).
 - Thanks to the JavaScript community for the amazing libraries and tools that make development easier and more enjoyable.
 
 ---
-#   T a s k _ M a n a g e r  
+
+ 
  
